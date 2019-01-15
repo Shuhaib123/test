@@ -1,0 +1,22 @@
+Ans?
+
+	Step 1: first initialize the max number and the sum;
+		int f= 4000000;
+		int sum = 0;
+	Step 2: then create a for loop for iteration
+				for(int i=1;i<=f;i++)
+
+	Step 3: the in an if condition specify the numbers to be even
+
+		if(i%2==0)
+
+	Step 4: then  sum+=i;
+				
+				sum = i;
+				i = sum+i;
+		where, the formula for sum is given, and the next number is assigned to initial number and the nex numbers is fed to the sum;
+
+
+		
+	Step 5: print the result.
+
